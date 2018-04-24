@@ -1,3 +1,5 @@
+#extract XML file name into csv file
+
 #import_path <- "D://000/test.csv"
 #output_path <- "D://000/test.csv"
 #xml_path <- "D://000/"
